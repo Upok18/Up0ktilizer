@@ -1,18 +1,21 @@
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 body {
   /* font-family: Choco Berry; */
   font-family: Tahoma;
 }  
 .welcome {
-   border: 20px green;
+   font-size: 60px;
+   border: 20px ;
    color: #89E900;
    font-family: Courier New;
-   padding: 100px;
+   padding: 422px;
    text-align: center;
-   background-color: #89E900;
+   /*background-color: #89E900; */
    
    /* Background Image or gif*/
    background-image: url('SuS.gif');
    background-position: center;
    background-repeat: no-repeat;
-   background-size: 1700px 300px ;
+   background-size: 1700px 912px ;
 }
