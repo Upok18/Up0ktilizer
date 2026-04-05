@@ -1,0 +1,18 @@
+body {
+  /* font-family: Choco Berry; */
+  font-family: Tahoma;
+}  
+.welcome {
+   border: 20px green;
+   color: #89E900;
+   font-family: Courier New;
+   padding: 100px;
+   text-align: center;
+   background-color: #89E900;
+   
+   /* Background Image or gif*/
+   background-image: url('SuS.gif');
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 1700px 300px ;
+}
